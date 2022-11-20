@@ -11,6 +11,7 @@ count start at 0
 https://newface.deta.dev/docs#
 default docs
 ## /redoc
+https://newface.deta.dev/redoc
 better docs 
 
 ### hosting by for ever free cloud hosting service deta.
