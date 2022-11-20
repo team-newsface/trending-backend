@@ -4,6 +4,7 @@
 https://newface.deta.dev/
 all rankings json 
 ## /rankings/{int}
+https://newface.deta.dev/rankings/0
 each rankings
 count start at 0
 ## /docs#
