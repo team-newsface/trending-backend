@@ -14,4 +14,5 @@ better docs
 
 ### hosting by for ever free cloud hosting service deta.
 https://www.deta.sh/
+
 [![](https://dcbadge.vercel.app/api/server/deta-827546555200438332)](https://discord.gg/deta-827546555200438332)
