@@ -16,3 +16,6 @@ better docs
 https://www.deta.sh/
 
 [![](https://dcbadge.vercel.app/api/server/deta-827546555200438332)](https://discord.gg/deta-827546555200438332)
+
+### uptimerobot
+https://stats.uptimerobot.com/5Kq45FM9Ek
