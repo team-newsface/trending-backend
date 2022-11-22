@@ -1,5 +1,15 @@
 # trending-backend
 네이트 실시간 검색어 api
+## how to activate venv
+```
+CMD
+.venv\Scripts\activate.bat  
+```
+## how to install packages one command
+```
+CMD
+pip install -r requirements.txt
+```
 ## /
 https://newface.deta.dev/
 all rankings json 
